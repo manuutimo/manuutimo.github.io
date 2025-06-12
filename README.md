@@ -17,7 +17,36 @@
     <td><input type=text name=fn placeholder="First Name"></td>
       </tr><tr>
         <td>Last Name </td>
-        <td><input type=text name=In placeholder= </td>
+        <td><input type=text name=In placeholder="Last Name"></td>
+      </tr><tr>
+        <td>MailAddress1</td>
+        <td><input type=text name=add1></td>
+      </tr><tr>
+        <td>Mail Address2<?td>
+        <td><input type=text name=add2></td>td>
+      </tr>tr><tr>
+        <td>State</td>td
+        <td><select name=state>
+          <option value="Gujarat">Gujarat
+            <option value="Maharastra">Maharastra
+              <option value="Karnataka">Karnataka
+                <option value="Deihi">Delhi
+        </select>
+        </td>
+      </tr><tr>
+      <td><zip/td>
+      <td><imput type=nexttext name=zp></imput>td>
+      </td></tr>
+      <td><upload</</td>
+      <td>input type=file name=photo></td>td>
+      <tr></tr>
+        <td>E-Mail</td>td>
+      <td>mobile</td>
+      <td><input type=text name=mobplaceholder="+91</td>
+      </tr><tr></tr>
+        <td><languages known</td>
+          <td><input type=check box name=IK value=Gujaratichecked>Gujarati</td>td>
+      </tr></td>
         </td>
       </tr>
     </table>
