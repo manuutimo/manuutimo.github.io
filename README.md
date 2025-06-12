@@ -47,6 +47,35 @@
         <td><languages known</td>
           <td><input type=check box name=IK value=Gujaratichecked>Gujarati</td>td>
       </tr></td>
+          <td>input type=checkbox name =ik value=Hindi 
+        cheked<Hindi</td
+        </tr><tr>
+          <td></td>
+          <td><input type=chekbox name=ik value=English
+           cheked>English</td>
+        </tr><tr>
+          <td></td>
+          <td><input type=checkbox na me Ik value=Marathi>Marathi</td>td>
+        </tr><tr>
+          <td>Additional Information</td>
+        <td><textarea name=add rows=3 cols=20 placeholder="Optional"
+              Wrap></textarea></td>td>
+        </tr><tr>
+          <td></td>
+          <td><input type=submit value=submit>&nbsp;<input type=reset
+          value=reset></td>td>
+        </table>
+        </form>
+        </body>
+        </tr
+        </tr>
+          
+          
+        </tr> 
+        
+          <td>
+            
+          </td>
         </td>
       </tr>
     </table>
