@@ -52,11 +52,10 @@
         cheked<Hindi</td
         </tr><tr>
           <td></td>
-          <td><input type=chekbox name=ik value=English
-           cheked>English</td>
+          <td><input type=chekbox name=ik value=English cheked>English</td>
         </tr><tr>
           <td></td>
-          <td><input type=checkbox na me Ik value=Marathi>Marathi</td>td>
+          <td><input type=checkbox name Ik value=Marathi>Marathi</td>td>
         </tr><tr>
           <td>Additional Information</td>
         <td><textarea name=add rows=3 cols=20 placeholder="Optional"
