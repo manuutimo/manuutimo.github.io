@@ -67,19 +67,4 @@
         </table>
         </form>
         </body>
-        </tr
-        </tr>
-          
-          
-        </tr> 
-        
-          <td>
-            
-          </td>
-        </td>
-      </tr>
-    </table>
-    
-  </body>
-</p>
 
