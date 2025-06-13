@@ -15,11 +15,6 @@
       <div class="nav-bar">
         <div class="brand">
           <a href="#hero">
-            <h1><span>T</span>ryzer</h1>
-            <h1><span>E</span>mmanuel </h1>
-            <h1><span>T</span>imothy </h1>
-            <h1><span>W</span>ayne </h1>
-            <h1><span>H</span>arizon </h1>
           </a>
         </div>
         <div class="nav-list">
