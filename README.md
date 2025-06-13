@@ -1,18 +1,4 @@
 # manuutimo.github.io
-<section>
-  <h1><p>comrade</p>  </h1>
-  <p>
-    <ol>
-    <li>Tryzer</li>
-      <li>Emmanuel</li>
-      <li>Timothy</li>
-      <li>Wayne</li>
-      <li>Harizon</li>
-    </ol>
-  </p>
-</section>
-<div>
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -29,21 +15,18 @@
       <div class="nav-bar">
         <div class="brand">
           <a href="#hero">
-            <h1><span>D</span>emas <span>T</span>ubula</h1>
+            <h1><span>T</span>ryzer</h1>
+            <h1><span>E</span>mmanuel </h1>
+            <h1><span>T</span>imothy </h1>
+            <h1><span>W</span>ayne </h1>
+            <h1><span>H</span>arizon </h1>
           </a>
         </div>
         <div class="nav-list">
           <div class="hamburger">
             <div class="bar"></div>
           </div>
-          <ul>
-            <li><a href="#hero" data-after="Home">Home</a></li>
-            <li><a href="#services" data-after="Service">Services</a></li>
-            <li><a href="#projects" data-after="Projects">Projects</a></li>
-            <li><a href="#about" data-after="About">About</a></li>
-            <li><a href="#contact" data-after="Contact">Contact</a></li>
-          </ul>
-        </div>
+         </div>
       </div>
     </div>
   </section>
@@ -56,7 +39,11 @@
       <div>
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
-        <h1>Demas <span></span></h1>
+        <h1>Tryzer <span></span></h1>
+         <h1>Emmanuel <span></span></h1>
+         <h1>Wayne <span></span></h1>
+         <h1>Timothy <span></span></h1>
+         <h1>Harizon <span></span></h1>
         <a href="#projects" type="button" class="cta">Portfolio</a>
       </div>
     </div>
