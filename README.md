@@ -34,20 +34,21 @@
         </select>
         </td>
       </tr><tr>
-      <td><zip/td>
-      <td><imput type=nexttext name=zp></imput>td>
+      <td><zip</td>
+      <td><imput type=nexttext name=zp></imput></td>
       </td></tr>
-      <td><upload</</td>
-      <td>input type=file name=photo></td>td>
+      <td><upload photo </td>
+      <td>input type=file name=photo></td>
       <tr></tr>
-        <td>E-Mail</td>td>
+        <td>E-Mail</td>
       <td>mobile</td>
-      <td><input type=text name=mobplaceholder="+91</td>
+      <td><input type=text name=mob placeholder="+91"></td>
       </tr><tr></tr>
         <td><languages known</td>
-          <td><input type=check box name=IK value=Gujaratichecked>Gujarati</td>td>
+          <td><input type=check box name=IK value=Gujarati 
+                checked>Gujarati</td>td>
       </tr></td>
-          <td>input type=checkbox name =ik value=Hindi 
+          <td>input type=checkbox name =Ik value=Hindi 
         cheked<Hindi</td
         </tr><tr>
           <td></td>
