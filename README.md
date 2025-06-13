@@ -12,7 +12,7 @@
   </p>
 </section>
 <div>
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
