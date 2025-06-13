@@ -13,7 +13,7 @@
 </section>
 <p><h2>projects</h2></p>
 <ol>
-  <li><a href="https://manuutimo.github.io/Wayne/">first project</a>a</li>
+  <li><a href="https://github.com/manuutimo/Wayne.github.io">first project</a>a</li>
 </ol>
 
 
