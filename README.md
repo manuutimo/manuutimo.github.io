@@ -36,7 +36,7 @@
         <h1>Tryzer <span></span></h1>
          <h1>Emmanuel <span></span></h1>
          <h1>Wayne <span></span></h1>
-         <h1>Timothy <span></span></h1>
+         <h1>Shamran <span></span></h1>
          <h1>Harizon <span></span></h1>
         <a href="#projects" type="button" class="cta">Portfolio</a>
       </div>
