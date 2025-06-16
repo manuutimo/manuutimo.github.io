@@ -31,7 +31,7 @@
   <section id="hero">
     <div class="hero container">
       <div>
-        <h1>RHINO, <span></span></h1>
+        <h1>Hello, <span></span></h1>
         <h1>Comrade <span></span></h1>
         <h1>Tryzer <span></span></h1>
          <h1>Emmanuel <span></span></h1>
