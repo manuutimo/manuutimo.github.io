@@ -43,7 +43,6 @@
     </div>
   </section>
   <!-- End Hero Section  -->
-
   <!-- Projects Section -->
   <section id="projects">
     <div class="projects container">
